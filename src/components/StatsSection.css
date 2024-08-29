@@ -1,0 +1,23 @@
+.stats-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    color-scheme: dark;
+}
+
+.stat-item {
+    text-align: center;
+    margin: 10px;
+}
+
+.stat-item h2 {
+    font-size: 2.5rem;
+    color: blue; 
+}
+
+.stat-item p {
+    font-size: 1.2rem;
+    color: #3c6e71;
+    margin-top: 5px;
+}
